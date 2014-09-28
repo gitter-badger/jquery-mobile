@@ -1,4 +1,5 @@
 # jQuery Mobile [![Build Status](https://travis-ci.org/jquery/jquery-mobile.png?branch=master)](https://travis-ci.org/jquery/jquery-mobile)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jtblin/jquery-mobile?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 This is the main repository for the jQuery Mobile project. From the [official website](http://jquerymobile.com):
 
